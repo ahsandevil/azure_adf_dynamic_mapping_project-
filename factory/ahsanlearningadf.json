@@ -1,0 +1,15 @@
+{
+	"name": "ahsanlearningadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3600b8f4-9fba-433e-b790-6a06e7e3fdd0",
+		"tenantId": "39938fd8-6118-40ec-b807-29ad2611242f"
+	}
+}
